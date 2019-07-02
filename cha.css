@@ -1,0 +1,28 @@
+.fundotela{
+	background-image: url("fundocha.jpg");
+	background-size: cover;
+	height: 655px;
+}
+.bebe{
+	background-image: url("bebe.gif");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 250px;
+	width:150px;
+}
+.balao1{
+	background-image: url("Balao1.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 450px;
+	margin-left: 500px;
+
+}
+.frase1{
+	background-image: url("frase2.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 300px;
+	width:300px;
+}
