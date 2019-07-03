@@ -1,7 +1,8 @@
 .fundotela{
 	background-image: url("fundocha.jpg");
 	background-size: cover;
-	height: 655px;
+	background-repeat: no-repeat;
+	
 }
 .bebe{
 	background-image: url("Bebe.gif");
@@ -16,7 +17,7 @@
 	background-repeat: no-repeat;
 	height: 400px;
 	width: 450px;
-	margin-left: 500px;
+	margin-left: 300px;
 
 }
 .frase1{
