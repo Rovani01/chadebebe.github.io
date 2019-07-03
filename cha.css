@@ -1,29 +1,51 @@
-.fundotela{
+body{
 	background-image: url("fundocha.jpg");
 	background-size: cover;
-	background-repeat: no-repeat;
-	
 }
+
 .bebe{
+	margin-top: 5%;
 	background-image: url("Bebe.gif");
 	background-size: 100%;
 	background-repeat: no-repeat;
-	height: 250px;
+	height: 300px;
 	width:150px;
 }
 .balao1{
+	margin-top: 1%;
 	background-image: url("Balao1.png");
-	background-size: cover;
+	background-size: 100%;
 	background-repeat: no-repeat;
-	height: 400px;
-	width: 450px;
-	margin-left: 300px;
+	height:350px;
+	width: 250px;
+	
 
 }
 .frase1{
+	margin-top: 10%;
 	background-image: url("frase2.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
 	height: 300px;
 	width:300px;
+}
+.Endereco{
+	margin-left:20%;
+	font-family: 'DM Serif Display', serif;
+	font-size: 30px;
+	
+}
+.pando1{
+background-image: url("pando1.jpg");
+background-size: cover;
+height: 250px;
+width: 700px;
+}
+.pando2{
+	background-image: url("pando2.jpg");
+	background-size: cover;
+}
+.pando3{
+	background-image: url("pando3.jpg");
+	background-size: cover;
 }
