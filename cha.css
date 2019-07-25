@@ -1,6 +1,7 @@
 body{
 	background-image: url("fundocha.jpg");
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .bebe{
@@ -49,3 +50,4 @@ width: 700px;
 	background-image: url("pando3.jpg");
 	background-size: cover;
 }
+
